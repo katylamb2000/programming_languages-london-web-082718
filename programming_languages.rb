@@ -1,3 +1,4 @@
 def reformat_languages(languages)
-  # your code here
+  languages.each do |k,v|
+    k.each do |v
 end
