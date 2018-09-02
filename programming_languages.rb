@@ -1,4 +1,6 @@
+new_hash
+
 def reformat_languages(languages)
-  languages.each do |k,v|
-    k.each do |v
+  languages.each do |language, info|
+    language.each do |v
 end
